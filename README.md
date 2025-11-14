@@ -1,7 +1,7 @@
 # Portfolio Construction and Optimization
 
 Course Project — King’s College London  
-**Period:** February 2024 – May 2024  
+**Period:** February 2025 – May 2025  
 
 ---
 
