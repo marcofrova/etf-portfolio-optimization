@@ -37,11 +37,11 @@ The pipeline integrates time series resampling, performance metrics, and optimiz
 
 ## Repository Structure
 
-Script 1.py               # Data preprocessing and metrics computation
-Script 2.py               # Regression analysis and benchmark comparison
-Script 3.py               # Portfolio optimization and visualization
-data/                     # Input datasets (if applicable)
-results/                  # Output charts and reports
-README.md
+- Script 1.py               # Data preprocessing and metrics computation
+- Script 2.py               # Regression analysis and benchmark comparison
+- Script 3.py               # Portfolio optimization and visualization
+- data/                     # Input datasets (if applicable)
+- results/                  # Output charts and reports
+- README.md
 
 ---
